@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="bg-gray-400 flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>React Hooks</title>
+        <title>React Hooks.</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
